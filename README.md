@@ -6,3 +6,5 @@ Les objectifs du projets sont de se familiariser avec le système de reconnaissa
 Réalisation d'une interface permettant à l’utilisateur de charger et afficher le vocabulaire de gestes; de dessiner un geste et de tester la capacité du 1$ recognizer à reconnaitre les gestes; et de le guider dans l'exécution du geste (avec un feedback dynamique : morphing).
 
  L’interface contient une galerie de templates (en haut), une zone pour tester le système de reconnaissance (au centre) et une zone de texte affichant l’historique des gestes reconnus.
+ 
+ ![](Demo_Screen_Recording.gif)
